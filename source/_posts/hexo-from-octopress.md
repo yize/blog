@@ -166,6 +166,8 @@ $ git remote add origin git@github.com:yize/blog.git
 - [hexo-in-the-docker](https://blog.jamespan.me/2015/04/17/hexo-in-the-docker/)
 - [automated-nginx-reverse-proxy-for-docker](http://jasonwilder.com/blog/2014/03/25/automated-nginx-reverse-proxy-for-docker/)
 - [hexo-NexT setup](http://theme-next.iissnan.com/five-minutes-setup.html)
+- [http://ibruce.info/2013/11/22/hexo-your-blog/](http://ibruce.info/2013/11/22/hexo-your-blog/)
 
+I
 
 
