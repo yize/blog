@@ -68,7 +68,8 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type:
+  type: git
+  repo: git@github.com:yize/blog.git
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
