@@ -68,8 +68,11 @@ theme: next
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
-  type: git
-  repo: git@github.com:yize/blog.git
+- type: rsync
+  host: 104.199.193.225
+  root: /var/www/test
+  user: root
+  
 
 # Extensions
 ## Plugins: http://hexo.io/plugins/
